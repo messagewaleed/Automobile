@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-      echo 'Check on Git...Running now';
+      echo 'This should be running now...';
         ?>
     </body>
 </html>
